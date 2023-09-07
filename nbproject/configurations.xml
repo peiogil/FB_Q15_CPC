@@ -7,7 +7,6 @@
       <itemPath>h/dsp.h</itemPath>
       <itemPath>h/Functions.h</itemPath>
       <itemPath>inc/dspcommon.inc</itemPath>
-      <itemPath>src/uart.h</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"
@@ -252,18 +251,6 @@
         <property key="voltagevalue" value="3.25"/>
       </ICD3PlatformTool>
       <item path="src/pid_TIPO_II_FB_Q15_CPC.s" ex="false" overriding="false">
-        <C30>
-        </C30>
-        <C30-AR>
-        </C30-AR>
-        <C30-AS>
-        </C30-AS>
-        <C30-LD>
-        </C30-LD>
-        <C30Global>
-        </C30Global>
-      </item>
-      <item path="src/uart.h" ex="true" overriding="false">
         <C30>
         </C30>
         <C30-AR>
